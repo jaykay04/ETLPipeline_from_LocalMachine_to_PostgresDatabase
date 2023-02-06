@@ -16,3 +16,13 @@ The goal of this project is to show how we can connect to postgres by using the 
 
 ## Diagram Flow
 <img src="https://github.com/jaykay04/ETLPipeline_to_PostgresDatabase/blob/master/ETL%20_Postgres_Diagram.png">
+
+## Data
+* product.csv
+* superstore.csv
+* unemployment.xlsx
+
+## Follow Me On
+* Linkedin: https://www.linkedin.com/in/joshua-gbegudu-6a7a59a9/
+* Github: github.com/jaykay04
+* Instagram: @Official_jaykay04
