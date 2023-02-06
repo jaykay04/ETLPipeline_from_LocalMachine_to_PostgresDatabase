@@ -15,4 +15,4 @@ The goal of this project is to show how we can connect to postgres by using the 
 * Sqlalchemy
 
 ## Diagram Flow
-<img src="file:///Users/Jaykay/Library/CloudStorage/OneDrive-Personal/ETL%20_Postgres_Diagram.png">
+<img src="https://github.com/jaykay04/ETLPipeline_to_PostgresDatabase/blob/master/ETL%20_Postgres_Diagram.png">
